@@ -7,7 +7,7 @@ This is simply a multiplayer take on the genre.
 Before you can run this client, you will need to be running the server side which you can download and install from here. 
 
 ## Final Product
-(#<img width="557" alt="Screen Shot 2022-12-19 at 1 56 10 AM" src="https://user-images.githubusercontent.com/31860875/208365809-e4b8fb0a-37c7-44f8-b9c3-da62320ce235.png">
+(<img width="557" alt="Screen Shot 2022-12-19 at 1 56 10 AM" src="https://user-images.githubusercontent.com/31860875/208365809-e4b8fb0a-37c7-44f8-b9c3-da62320ce235.png">
 )
 
 
